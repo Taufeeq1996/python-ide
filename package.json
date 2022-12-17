@@ -1,6 +1,6 @@
 {
   "name": "python_ide",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "private": false,
   "description": "created a python code editor based on react",
   "main": "src/index.js",
@@ -22,6 +22,10 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taufeeq1996/python-ide.git"
   },
   "browserslist": [
     ">0.2%",
